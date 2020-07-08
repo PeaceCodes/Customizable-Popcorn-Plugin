@@ -1,0 +1,9 @@
+name: Popcorn
+version: 1.0
+main: me.peacetuba.popcorn.Popcorn
+author: PeaceTuba
+description: CREDITS TO TAPPLE.WORLD AND THEIR DEVS FOR GIVING ME THIS IDEA!
+
+commands:
+  runsetup:
+  
